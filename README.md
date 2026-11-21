@@ -1,5 +1,5 @@
-# Wasteland Warlord .22
-.22 cal modlet for 7 Days to Die
+# French Vanilla Guy's .22 cal weapon pack 
+Adds .22 cal weapons 7 Days to Die
 
 Contains the following:
 
@@ -8,3 +8,8 @@ Contains the following:
 - Taurus Raging Hornet
 - Ruger Mk4
 - Ruger 10/22
+
+### Ammo
+- .22 regular
+- .22 HiPower
+- .22 AP
